@@ -8,8 +8,8 @@
 #Mon Apr 29 15:17:00 IST 2019
 env=local
 security.key=1
-- Forth, http path will be the value
+- Forth, http path will be the value.
 -Last, delete some maven dependencies.
--
+
 
        -
